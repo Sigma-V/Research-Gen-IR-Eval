@@ -1,1 +1,1 @@
-# Gen-IR-Evaluation( Adobe)
+# Gen-IR-Evaluation
